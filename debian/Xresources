@@ -1,0 +1,4 @@
+URxvt.font: xft:WenQuanYi Micro Hei Mono:size=11
+
+URxvt.background: black
+URxvt.foreground: white
