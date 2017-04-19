@@ -6,7 +6,7 @@ sudo apt-get install -y xorg i3 rxvt-unicode-256color
 
 sudo apt-get install -y ttf-wqy-microhei ttf-wqy-zenhei
 
-sudo apt-get install -y vim git feh
+sudo apt-get install -y vim git feh firefox-esr
 
 # Configure
 
